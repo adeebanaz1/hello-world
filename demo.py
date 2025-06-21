@@ -15,7 +15,7 @@ def area_of_circle(radius):
   return pi*r*r
 
 def main():
-    """Main function to print area of a circle with radius 10.""
+    """Main function to print area of a circle with radius 10."""
     area = area_of_circle(10)
     print(area)
 
