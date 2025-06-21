@@ -1,7 +1,23 @@
 print("Hello world")
-def area_of_circle(r):
-  pi = 3.14
-  return pi*r*r
-#Print Area of Circle
-area = area_of_circle(10)
-print(area)
+def Area_of_circle(r):
+  """
+  Area of Circle
+
+  Args:
+  r(float) : Area of Circle
+
+  Returns:
+  float : Area of Circle
+  """
+  
+    pi = 3.14
+    return pi*r*r
+
+def main()
+  #Print Area of Circle
+  area = area_of_circle(10)
+  print(area)
+
+
+if __name__ == "__main__":
+  main()
