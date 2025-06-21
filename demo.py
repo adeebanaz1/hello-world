@@ -14,9 +14,9 @@ def Area_of_circle(r):
     return pi*r*r
 
 def main()
-  #Print Area of Circle
-  area = area_of_circle(10)
-  print(area)
+    #Print Area of Circle
+    area = area_of_circle(10)
+    print(area)
 
 
 if __name__ == "__main__":
