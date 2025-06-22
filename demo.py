@@ -12,7 +12,7 @@ def area_of_circle(radius):
   """
   
   pi = 3.14
-  return pi*r*r
+  return pi*radius*radius
 
 def main():
     """Main function to print area of a circle with radius 10."""
